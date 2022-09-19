@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(244, 185, 136);
+    color:dimgray;
+  }
+h1 {
+    font-size: 2em;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+button { 
+    background-color: rgb(199, 61, 61);
+}
